@@ -1,4 +1,4 @@
-# 🎭 AI Model Jailbreak Prompts Collection
+6# 🎭 AI Model Jailbreak Prompts Collection
 
 ![ShadowHacker](https://www.shadowhackr.com/wp-content/uploads/2024/01/logo.png)
 
